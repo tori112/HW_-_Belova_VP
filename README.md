@@ -8,7 +8,7 @@
 
 Проект организован в структуру папок следующим образом:
 
-microservice_architecture/
+```microservice_architecture/
 │
 ├── features/
 │   ├── Dockerfile
@@ -35,6 +35,7 @@ microservice_architecture/
 │       └── plot.py
 │
 └── docker-compose.yml
+```
 
 
 ## Описание сервисов
